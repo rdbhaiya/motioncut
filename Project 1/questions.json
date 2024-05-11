@@ -1,0 +1,55 @@
+[
+{
+    "question": "In which year did India gain independence from British rule?",
+    "option1": "1947",
+    "option2": "1950",
+    "option3": "1942",
+    "option4": "1935",
+    "correct_answer": "1947"
+}
+,
+{
+    "question": "Which of the following is not a UNESCO World Heritage Site in India?",
+    "option1": "Taj Mahal",
+    "option2": "Qutub Minar",
+    "option3": "Hawa Mahal",
+    "option4": "Red Fort",
+    "correct_answer": "hawa mahal"
+}
+,
+{
+    "question": "Which state is associated with the capital city Chennai?",
+    "option1": "Kerala",
+    "option2": "Tamil Nadu",
+    "option3": "Karnataka",
+    "option4": "Telangana",
+    "correct_answer": "tamil nadu"
+}
+,
+{
+    "question": "Which river is the longest in India?",
+    "option1": "Ganges",
+    "option2": "Yamuna",
+    "option3": "Godavari",
+    "option4": "Brahmaputra",
+    "correct_answer": "ganges"
+}
+,
+{
+    "question": "Who is known as the Father of the Nation in India?",
+    "option1": "Mahatma Gandhi",
+    "option2": "Jawaharlal Nehru",
+    "option3": "Subhas Chandra Bose",
+    "option4": "Bhagat Singh",
+    "correct_answer": "mahatma gandhi"
+}
+,
+{
+    "question": "Which of the following is a popular South Indian dish?",
+    "option1": "Samosa",
+    "option2": "Biryani",
+    "option3": "Dosa",
+    "option4": "Rogan Josh",
+    "correct_answer": "dosa"
+}
+]

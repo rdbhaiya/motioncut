@@ -6,19 +6,19 @@ This repository contains all the projects assigned during the 6-week internship 
 
 ## Projects
 
-### [Project 1: Quiz Game](project1/)
+### [Project 1: Quiz Game](https://github.com/rdbhaiya/motioncut/tree/main/Project%201)
 A Python-based interactive quiz game that allows users to test their knowledge on various topics. The game features multiple-choice questions, score tracking, and a user-friendly interface.
 
-### [Project 2: Word Counter](project2/)
+### [Project 2: Word Counter](https://github.com/rdbhaiya/motioncut/tree/main/Project%202)
 A Python program that counts the number of words, characters, and sentences in a given text. This tool is useful for text analysis and processing.
 
-### [Project 3: Expense Tracker](project3/)
+### [Project 3: Expense Tracker](https://github.com/rdbhaiya/motioncut/tree/main/Project%203)
 An expense tracking application built with Python. It allows users to input their daily expenses, categorize them, and generate reports to manage their finances effectively.
 
-### [Project 4: Password Generator](project4/)
+### [Project 4: Password Generator](https://github.com/rdbhaiya/motioncut/tree/main/Project%204)
 A Python script that generates strong, random passwords based on user-specified criteria such as length, inclusion of special characters, numbers, and uppercase letters.
 
-### [Project 5: Hangman Game](project5/)
+### [Project 5: Hangman Game](https://github.com/rdbhaiya/motioncut/tree/main/Project%205)
 An interactive Hangman game developed using Python and Tkinter. It features dynamic word selection based on categories and difficulty levels, an engaging graphical interface, and a scoring system.
 
 ## Installation and Usage
@@ -31,7 +31,6 @@ An interactive Hangman game developed using Python and Tkinter. It features dyna
     ```bash
     cd motioncut/project1  # or project2, project3, project4, project5
     ```
-3. Follow the specific instructions provided in each project's README to set up and run the application.
 
 ## Requirements
 
